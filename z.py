@@ -1,4 +1,3 @@
-#Waldyr Felype
 from datetime import date
 import typing
 Produto = typing.NewType("Produto", any)
